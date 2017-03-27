@@ -1,14 +1,17 @@
 # French translation for pelican-bootstrap3
 # Copyright (C) 2017 Nils Giordano
-# This file is distributed under the same license as the pelican-bootstrap3 project.
+# This file is distributed under the same license as the pelican-bootstrap3
+# project.
 # Nils Giordano <EMAIL@ADDRESS>, 2017.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version:  \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-27 12:22+0200\n"
+"PO-Revision-Date: 2017-03-27 12:38+0200\n"
 "Last-Translator: Nils Giordano <EMAIL@ADDRESS>\n"
+"Language: fr\n"
 "Language-Team: fr\n"
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
 "MIME-Version: 1.0\n"
